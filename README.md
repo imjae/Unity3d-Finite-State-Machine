@@ -1,3 +1,5 @@
+### [x] 공부 예정 
+
 # Simple Finite State Machine for Unity (C#)
 
 State machines are a very effective way to manage game state, either on your main game play object (Game Over, Restart, Continue etc) or UI (buttonHover, buttonPress etc) or on individual actors and NPCs (AI behaviours, Animations, etc). The following is a simple state machine that should work well within any Unity context. 
